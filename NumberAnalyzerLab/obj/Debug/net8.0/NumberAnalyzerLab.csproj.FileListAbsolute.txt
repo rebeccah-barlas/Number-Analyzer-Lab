@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net8.0\NumberAnalyzerLab.exe
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net8.0\NumberAnalyzerLab.deps.json
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net8.0\NumberAnalyzerLab.runtimeconfig.json
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net8.0\NumberAnalyzerLab.dll
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net8.0\NumberAnalyzerLab.pdb
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net8.0\NumberAnalyzerLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net8.0\NumberAnalyzerLab.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net8.0\NumberAnalyzerLab.AssemblyInfo.cs
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net8.0\NumberAnalyzerLab.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net8.0\NumberAnalyzerLab.dll
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net8.0\refint\NumberAnalyzerLab.dll
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net8.0\NumberAnalyzerLab.pdb
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net8.0\NumberAnalyzerLab.genruntimeconfig.cache
+C:\Users\barla\source\repos\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net8.0\ref\NumberAnalyzerLab.dll
